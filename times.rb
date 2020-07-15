@@ -3,6 +3,6 @@ def using_times
 	puts "Wingadium Leviosa"
   end
 end
-
+using_times
 
 
